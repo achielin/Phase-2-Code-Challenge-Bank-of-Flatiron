@@ -1,0 +1,12 @@
+{
+  "name": "phase-2-code-challenge-bank-of-flatiron",
+  "version": "1.0.0",
+  "description": "Instructions For this project, you’ll be building out a React application that displays a list of your recent bank transactions, among other features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
