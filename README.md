@@ -89,5 +89,3 @@ Delete a transaction which will remove it from the table and delete it from the 
 Endpoints for Advanced Deliverables
 DELETE /transactions/:id
 Example Response:
-
-{}
